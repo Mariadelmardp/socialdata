@@ -25,21 +25,21 @@
   - URL: [https://iabspain.es/estudio/estudio-de-redes-sociales-2023/](https://iabspain.es/estudio/estudio-de-redes-sociales-2023/)
   - Contiene: Perfil del usuario español en redes sociales, tiempo de uso, preferencias, comportamiento de compra
   - Formato: Informe PDF (versión completa bajo suscripción, resumen ejecutivo gratuito)
-  - Ventaja: Es el estudio de referencia sobre redes sociales en España
+  - Ventaja: Es el estudio de referencia sobre redes sociales en España Extraccion hecha, hay muhca info
 
 ### ONTSI (Observatorio Nacional de Tecnología y Sociedad)
 
 - **Informes del Uso de Internet en España**
   - URL: [https://www.ontsi.es/es/publicaciones](https://www.ontsi.es/es/publicaciones)
   - Contiene: Estudios sobre brecha digital, uso de tecnologías y redes sociales
-  - Formato: Informes PDF con datos tabulares
+  - Formato: Informes PDF con datos tabulares. SOn los mismos informes que el IAB,
 
 ### We Are Social & Hootsuite
 
 - **Digital Report Spain**
   - URL: [https://wearesocial.com/es/blog/2023/01/digital-2023-espana/](https://wearesocial.com/es/blog/2023/01/digital-2023-espana/)
   - Contiene: Estadísticas actualizadas de uso de redes sociales en España, perfiles demográficos, tiempo de uso
-  - Formato: Presentación PowerPoint y PDF
+  - Formato: Presentación PowerPoint y PDF Extraccion hecha, hay materia para trabajar
 
 ## 3. Datasets específicos
 
@@ -81,7 +81,7 @@
 
 - **Estudios de Mercado Digital**
   - URL: [https://elogia.net/conocimiento/](https://elogia.net/conocimiento/)
-  - Colabora con IAB Spain en los estudios anuales
+  - Colabora con IAB Spain en los estudios anuales, extraccion hecha
 
 ## 6. Datos Directos de Plataformas de Redes Sociales
 
